@@ -36,3 +36,7 @@ a.out
 *.swp
 *.pb.*
 example_*_cpp*
+
+# idea clion
+.idea
+/cmake-build-debug/
